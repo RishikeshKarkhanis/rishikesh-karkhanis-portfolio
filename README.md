@@ -139,6 +139,6 @@ npm run build
 
 ### ⭐ If you like this project, consider giving it a star!
 
-Made with ❤️ by **Rishikesh Karkhanis**
+Made by **Rishikesh Karkhanis**
 
 </div>
