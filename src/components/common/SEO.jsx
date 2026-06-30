@@ -3,8 +3,8 @@ import { Helmet } from "react-helmet-async";
 export default function SEO({
   title,
   description,
-  image = "/og-image.png",
-  url = "https://yourdomain.com",
+  image = "https://rishikesh-karkhanis-portfolio.vercel.app/og-image.png",
+  url = "https://rishikesh-karkhanis-portfolio.vercel.app",
 }) {
   return (
     <Helmet>
